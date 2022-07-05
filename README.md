@@ -1,6 +1,6 @@
 # Webpack & Tailwind Starter
 
-Build apps with Webpack and use Tailwind CSS
+Build apps with Webpack and use Tailwind CSS.
 
 ## Usage
 
